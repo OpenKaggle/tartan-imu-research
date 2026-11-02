@@ -5,6 +5,8 @@
 > after the campaign deadline. It does not republish competition data, model
 > payloads, or generated submissions.
 
+**Publication gate: 2026-09-20T23:59Z** (= tartan-imu-challenge-iros2026 submission end; already elapsed — repo is public-eligible; visibility decision is separate)
+
 This directory is an auditable, competition-only workspace for the
 [TartanIMU Challenge](https://www.kaggle.com/competitions/tartan-imu-challenge-iros2026).
 The competition data is licensed CC BY-NC-SA 4.0 and may be used only for the
